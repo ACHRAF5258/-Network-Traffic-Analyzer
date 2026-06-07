@@ -2,7 +2,7 @@
 """
 Network Traffic Analyzer
 Detects suspicious traffic: port scans, ARP spoofing, unusual protocols
-Author: [Your Name] | GitHub Portfolio Project
+Author: [med achraf htiwech] | GitHub Portfolio Project
 """
 
 from scapy.all import sniff, ARP, IP, TCP, UDP, ICMP, wrpcap
