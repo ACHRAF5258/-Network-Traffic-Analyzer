@@ -10,7 +10,7 @@ Real-time packet capture and threat detection tool built in Python.
 - **JSON report** + PCAP file export
 
 ## Screenshot
-![Network Analyzer](../dashboard.png)
+![Network Analyzer](https://github.com/ACHRAF5258/-Network-Traffic-Analyzer/blob/main/dashboard.png)
 
 ## Installation
 ```bash
